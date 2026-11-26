@@ -2,10 +2,6 @@
 
 Aplikasi web (HTML, CSS, JavaScript murni). Tanpa server, tanpa instalasi, tanpa internet.
 
-## Menjalankan
-Ekstrak ZIP, lalu buka `index.html` di browser (Chrome, Edge, Firefox, Safari).
-Opsional: `python3 -m http.server 8080` lalu buka http://localhost:8080
-
 ## Akun demo
 - Admin : admin / admin123 (semua menu)
 - Kasir : kasir / kasir123 (Dashboard, Kasir, Riwayat, Inventori hanya lihat)
